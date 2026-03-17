@@ -25,4 +25,5 @@ CREATE DATABASE cadastro_java;
 Main.java
 
 ## 📸 Demonstração
-(Adicione aqui um print do sistema rodando)
+
+![Sistema CRUD](crud-java.png)
