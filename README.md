@@ -8,7 +8,7 @@ Java 17 | MySQL | POO | JDBC | Swing
 - Listagem de dados
 - Edição de informações
 - Exclusão de registros
-- Validação de campos
+- Validação de campos obrigatórios
 
 ## 📁 Estrutura
 src/
