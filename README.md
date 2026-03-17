@@ -1,37 +1,28 @@
-# 💻 Sistema de Cadastro em Java
+# 🔧 Sistema Cadastro Java - CRUD Completo
 
-## 📌 Descrição
-Projeto desenvolvido em Java com o objetivo de praticar lógica de programação, estruturas de repetição e conceitos básicos de orientação a objetos.
+## 🛠️ Tecnologias
+Java 17 | MySQL | POO | JDBC | Swing
 
-O sistema funciona via console e permite gerenciar um cadastro simples de nomes através de um menu interativo.
+## ✨ Funcionalidades
+- Cadastro de clientes
+- Listagem de dados
+- Edição de informações
+- Exclusão de registros
+- Validação de campos
 
----
+## 📁 Estrutura
+src/
+ ├── model
+ ├── dao
+ ├── view
+ └── main
 
-## ⚙️ Funcionalidades
+## 🚀 Como executar
+1. Criar banco no MySQL:
+CREATE DATABASE cadastro_java;
 
-- Cadastro de nomes
-- Listagem de dados cadastrados
-- Menu interativo no console
-- Armazenamento em memória utilizando ArrayList
+2. Rodar o projeto:
+Main.java
 
----
-
-## 🛠️ Tecnologias utilizadas
-
-- Java
-- Programação orientada a objetos
-- Estruturas de dados (ArrayList)
-- Git e GitHub
-
----
-
-## 🎯 Objetivo do projeto
-
-Projeto acadêmico desenvolvido para aprendizado prático de programação durante a graduação em Análise e Desenvolvimento de Sistemas.
-
----
-
-## 👨‍💻 Autor
-
-Roque Falch da Costa  
-Estudante de Análise e Desenvolvimento de Sistemas
+## 📸 Demonstração
+(Adicione aqui um print do sistema rodando)
