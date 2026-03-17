@@ -1,4 +1,5 @@
 # 🔧 Sistema Cadastro Java - CRUD Completo
+Sistema de cadastro de clientes desenvolvido em Java, com operações CRUD (Create, Read, Update e Delete) e interface gráfica utilizando Swing.
 
 ## 🛠️ Tecnologias
 Java 17 | MySQL | POO | JDBC | Swing
